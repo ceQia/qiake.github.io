@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Qia Ke
 
-You can use the [editor on GitHub](https://github.com/ceQia/qiake.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+email ceqiaqia@mail.scut.edu.cn
+  
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### South China University of Technology (SCUT)   Guangzhou, China
 
-### Markdown
+M.S. in Chemical Engineering               Sep. 2020 - June. 2023
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cumulative GPA: 3.76 / 4.0
 
-```markdown
-Syntax highlighted code block
+### South China University of Technology (SCUT)   Guangzhou, China
 
-# Header 1
-## Header 2
-### Header 3
+M.S. in Chemical Engineering               Sep. 2016 - June. 2020
 
-- Bulleted
-- List
+- Cumulative GPA: 3.72 / 4.0
+- Rank: 7 / 100
+  
+## Research Experience
+### Chemical Engineering Science Lab - SCUT  Guangzhou, China
 
-1. Numbered
-2. List
+Undergraduate/Graduate Student Researcher      Sep. 2019 - Present
 
-**Bold** and _Italic_ and `Code` text
+_Advisor: Prof. Libo Li_
+- Investigating the effects of the structure of ZIF-8 polymorphs on the separation of light hydrocarbons by GCMC and MD simulations 
+- Exploring the effect of thermostats, barostats and ZIF-8's force fields on simulation results 
+- Investigating the mechanism of water diffusion in graphene two-dimensional nanochannels 
+- Developing the force field between water and graphene, and exploring the effect of force field parameters on the simulation results of various water-graphene systems
 
-[Link](url) and ![Image](src)
-```
+### Technical Lignin Utilization Research Room - SCUT  Guangzhou, China
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Undergraduate Student Researcher           Sep. 2017 - May. 2018
 
-### Jekyll Themes
+Advisor:  Dr. Cheng Cai and Prof. Hongming Lou
+- Tracing cellulase components in hydrolyzate during the enzymatic hydrolysis of corncob residue by SDS-PAGE 
+- Analyzing the effect of lignin content and temperature on the adsorption of cellulase components 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ceQia/qiake.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Publications
+[1] Qia Ke, Xiaoting Gong, Shouwei Liao, Chongxiong Duan, and Libo Li. Effects of thermostats/barostats on physical properties of molecular dynamics simulations. Journal of Molecular, Liquids, 2022. revised.
 
-### Support or Contact
+[2] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water-graphene non-bonded interaction parameters: Development and influence on molecular dynamics simulations. Applied Surface Science, 2022. revised.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[3] Qia Ke, Yifan Duan, Yiran Ji, Daohui Zhao, Haoqing Zhang, Chongxiong Duan, Libo Li, and Yanying Wei. Identical composition and distinct performance: How ZIF-8 polymorphs’ structures affect the adsorption/separation of ethane and ethene. Journal of Chemical & Engineering Data, 66(9):3483–3492, 2021.
+
+[4] Cheng Cai, Yu Jin, Yuxia Pang, Qia Ke, Wenhui Qiu, Xueqing Qiu, Yanlin Qin, and Hongming Lou. Tracing cellulase components in hydrolyzate during the enzymatic hydrolysis of corncob residue and its analysis. Bioresource Technology Reports, 4:137–144, 2018.
+
+[5] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water’s motions in x, y, z directions of graphene nanochannels: Entirely different but tightly coupled. in preparation
+
+## Invited Talks
+### Molecular Simulations of Light Hydrocarbons Separation on ZIFs  Huizhou, China
+National Engineering Graduate Education Forum at Huizhou University      Jul. 2022
+
+## Skills
+### Programming Languages:  Python, Julia
+### Software:  Linux, Gromacs, Raspa, Materials Studio, Origin, Microsoft Office
+### Hardware:  3D Printing, Laser Cutting
+
+
+
+
