@@ -1,6 +1,6 @@
 # Qia Ke
 
-<strong>email:</strong> ceqiaqia@mail.scut.edu.cn
+<strong> email:</strong> ceqiaqia@mail.scut.edu.cn
   
 ## Education
 
